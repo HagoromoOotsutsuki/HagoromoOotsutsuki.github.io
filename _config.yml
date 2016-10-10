@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Krav Maga"
+description: "Krav Maga Greifswald, Kampf"
+keywords: "Krav Maga, Greifswald, Training, Seminar Selbstschutz, Selbstverteidigung, Krav Maga Global, Fitness, Kampfsport, Frauen"
+baseurl: "/"
+url: "http://jeckyll.christofschulze.com"
+# url: "http://127.0.0.1:4000"
+
+# blog img path
+img_path: 'http://jeckyll.christofschulze.com/kmg-greifswald/static/img/'
+
+# author
+author:
+  name: 'Thilo Steinke'
+  first_name: 'Thilo'
+  last_name: 'Steinke'
+  email: 'fuettermich@web.de'
+#  facebook_username: 'fb_username'
+#  github_username: 'github_username'
+  head_img: 'static/img/landing/avatar.jpg'
+
+# social link
+#jingyu:
+#  first_name: 'Yu'
+#  last_name: 'Jing'
+#  description: 'Painter.'
+#  link: 'http://angular.jack003.com'
+#  email: '805963294@qq.com'
+
+# landing page
+landing:
+  home: 'Home'
+  training: 'Training'
+  seminare: 'Seminare'
+  trainer: 'Trainer'
+  faq: 'FAQ'
+  kontakt: 'Kontakt'
+
+# google analytics
+#ga:
+#  id: UA-73784599-1
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+input: GFM
+syntax_highlighter: rouge
