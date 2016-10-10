@@ -14,16 +14,14 @@ permalink: /
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title">{{ site.title }}</span></a>
+<!--		    <a class="navbar-brand" href="#page-top"
+	id="i18_title"><span data-i18n="website.title"></SPAN></a>-->
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right" id="i18_navbar">
                         <li><a class="page-scroll" href="#page-top"><span data-i18n="nav.home">{{ site.landing.home }}</span></a></li>
-<!--                        <li><a class="page-scroll" href="#about_me"><span
-	data-i18n="nav.about_me">{{ site.landing.about }}</span></a></li> -->
-                        <li><a class="page-scroll" href="#training"><span
-						data-i18n="nav.career">{{
-						site.landing.training }}</span></a></li>
+                        <li><a class="page-scroll" href="#kravmaga"><span data-i18n="nav.kravmaga">{{ site.landing.kravmaga }}</span></a></li>
+                        <li><a class="page-scroll" href="#training"><span data-i18n="nav.career">{{ site.landing.training }}</span></a></li>
                         <li><a class="page-scroll" href="#seminare"><span
 						data-i18n="nav.link">{{
 						site.landing.seminare }}</span></a></li>
@@ -36,19 +34,18 @@ permalink: /
                         <li><a class="page-scroll" href="#kontakt"><span data-i18n="nav.link">{{ site.landing.kontakt }}</span></a></li>
                     </ul>
                 </div>
+		<a class="navbar-brand page-scroll"  href="#page-top"><img src="./static/img/landing/kravmaga.png" alt="{{	site.title }}"></img></a>
             </div>
         </nav>
 </div>
-<div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
-    <div class="carousel-inner" role="listbox">
-        <div class="item active">
-            <div class="header-back one"></div>
-        </div>
-    </div>
-</div>
-
+<!--
+<div class="spacer">
+		    <img padding=60px src="./static/img/landing/kravmaga.png"
+	alt="{{ site.title }}"></img> 
+</div> -->
 <section id="about_me" class="features">
-    <div class="container" id="i18_about_me">
+	<div class="spacer"></div>
+    <div class="container extramargin" id="i18_about_me">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
                 <p><span data-i18n="about_me.des">
@@ -59,11 +56,12 @@ permalink: /
     </div>
 </section>
 
-<section id="ideal" class="features gray-section">
+<section id="kravmaga" class="features gray-section">
 	<div class="container">
                 <div class="navy-line"></div>
-        <div class="row m-b-lg">
-		{% markdown kravmaga.md %}
+		<div class="row m-b-lg">
+			{% markdown kravmaga.md %}
+		</div>
 	</div>
 </section>
 <section id="training" class="features">
@@ -72,12 +70,14 @@ permalink: /
         <div class="row m-b-lg">
 		{% markdown training.md %}
 	</div>
+	</div>
 </section>
 <section id="training" class="features gray-section">
 	<div class="container">
                 <div class="navy-line"></div>
         <div class="row m-b-lg">
 		{% markdown seminare.md %}
+	</div>
 	</div>
 </section>
 <section id="trainer" class="features">
@@ -86,12 +86,14 @@ permalink: /
         <div class="row m-b-lg">
 		{% markdown trainer.md %}
 	</div>
+	</div>
 </section>
 <section id="faq" class="features gray-section">
 	<div class="container">
                 <div class="navy-line"></div>
         <div class="row m-b-lg">
 		{% markdown faq.md %}
+	</div>
 	</div>
 </section>
 
