@@ -19,7 +19,7 @@ permalink: /
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right" id="i18_navbar">
-                        <li><a class="page-scroll" href="#page-top"><span data-i18n="nav.home">{{ site.landing.home }}</span></a></li>
+                        <li><a class="page-scroll" href="#home"><span data-i18n="nav.home">{{ site.landing.home }}</span></a></li>
                         <li><a class="page-scroll" href="#kravmaga"><span data-i18n="nav.kravmaga">{{ site.landing.kravmaga }}</span></a></li>
                         <li><a class="page-scroll" href="#training"><span data-i18n="nav.career">{{ site.landing.training }}</span></a></li>
                         <li><a class="page-scroll" href="#seminare"><span
@@ -43,16 +43,12 @@ permalink: /
 		    <img padding=60px src="./static/img/landing/kravmaga.png"
 	alt="{{ site.title }}"></img> 
 </div> -->
-<section id="about_me" class="features">
-	<div class="spacer"></div>
+<section id="home" class="features">
     <div class="container extramargin" id="i18_about_me">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
-                <p><span data-i18n="about_me.des">
+                <div class="navy-line"></div>
+		<div class="row m-b-lg">
 		      {% markdown claim.md %}
-		</span></p>
             </div>
-        </div>
     </div>
 </section>
 
@@ -67,12 +63,12 @@ permalink: /
 <section id="training" class="features">
 	<div class="container">
                 <div class="navy-line"></div>
-        <div class="row m-b-lg">
-		{% markdown training.md %}
-	</div>
+		<div class="row m-b-lg">
+			{% markdown training.md %}
+		</div>
 	</div>
 </section>
-<section id="training" class="features gray-section">
+<section id="seminare" class="features gray-section">
 	<div class="container">
                 <div class="navy-line"></div>
         <div class="row m-b-lg">
