@@ -72,7 +72,7 @@
               var link = $(this);
               $('html, body').stop().animate({
                   scrollTop: $(link.attr('href')).offset().top - 50
-              }, 500);
+              }, 50);
               event.preventDefault();
               $("#navbar").collapse('hide');
           });
@@ -82,12 +82,12 @@
           var docElem = document.documentElement,
                   header = document.querySelector( '.navbar-default' ),
                   didScroll = false,
-                  changeHeaderOn = 200;
+                  changeHeaderOn = 10;
           function init() {
               window.addEventListener( 'scroll', function( event ) {
                   if( !didScroll ) {
                       didScroll = true;
-                      setTimeout( scrollPage, 250 );
+                      setTimeout( scrollPage, 150 );
                   }
               }, false );
           }

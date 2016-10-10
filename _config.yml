@@ -1,8 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
+#title: "<img src='./static/img/landing/header_one.jpg'>"
 title: "Krav Maga"
-description: "Krav Maga Greifswald, Kampf"
+description: "Krav Maga Greifswald, Selbstschutz, Fitness"
 keywords: "Krav Maga, Greifswald, Training, Seminar Selbstschutz, Selbstverteidigung, Krav Maga Global, Fitness, Kampfsport, Frauen"
 baseurl: "/"
 url: "http://jeckyll.christofschulze.com"
@@ -32,6 +33,7 @@ author:
 # landing page
 landing:
   home: 'Home'
+  kravmaga: 'Krav Maga'
   training: 'Training'
   seminare: 'Seminare'
   trainer: 'Trainer'
