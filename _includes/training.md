@@ -12,7 +12,7 @@ Mehrzweckraum
 Schönwaldecenter 
 Ernst-Thälmann-Ring 11-13 
 Greifswald
-(Googlemaps-Link) 
+TODO (Googlemaps-Link) 
 
 Probetraining
 -------------
