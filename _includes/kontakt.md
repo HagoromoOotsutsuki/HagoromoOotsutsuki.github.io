@@ -1,5 +1,5 @@
 
-Umsatzsteuer-Identifikationsnummer:
+Umsatzsteuer-Identifikationsnummer: 4711
 
 Inhaltlich verantwortlich: Thilo Steinke
 
