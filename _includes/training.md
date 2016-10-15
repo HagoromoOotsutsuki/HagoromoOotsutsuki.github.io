@@ -3,14 +3,13 @@ Training
 
 Zeiten
 -------
-Dienstag: 20:00 – 21.30 Uhr 
-Donnerstag: 20:30 – 22:00 Uhr 
+Dienstag: 20:00 – 21.30 Uhr
+Donnerstag: 20:30 – 22:00 Uhr
 
 Ort
 --------
-Mehrzweckraum 
-Schönwaldecenter 
-Ernst-Thälmann-Ring 11-13 
+Mehrzweckraum Schönwaldecenter
+Ernst-Thälmann-Ring 11-13
 Greifswald
 [Karte](https://goo.gl/maps/tbwXbR6TD7T2)
 
@@ -21,10 +20,10 @@ pdf mit entsprechenden Bedingungen)
 
 Beiträge
 --------
-6-Monate: 35 € ermäßigt (Studierende, SchülerInnen, Azubis), 40 € regulär
+12-Monate: 30 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 35 Euro/Monat regulär
+6-Monate: 35 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 40 Euro/Monat regulär
 
-12-Monate: 30 € ermäßigt (Studierende, SchülerInnen, Azubis), 35 € regulär 
 
-5er-Karte: 50 € 
 
-10er-Karte: 90 € 
+5er-Karte: 50 Euro
+10er-Karte: 90 Euro
