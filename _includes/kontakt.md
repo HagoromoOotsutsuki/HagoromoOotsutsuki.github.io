@@ -1,6 +1,4 @@
-
-Umsatzsteuer-Identifikationsnummer: 4711
-
-Inhaltlich verantwortlich: Thilo Steinke
+Kontakt
+========
 
 Mail: info at domain.de
