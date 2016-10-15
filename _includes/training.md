@@ -4,7 +4,6 @@ Training
 Zeiten
 -------
 Dienstag: 20:00 – 21.30 Uhr
-
 Donnerstag: 20:30 – 22:00 Uhr
 
 Ort
