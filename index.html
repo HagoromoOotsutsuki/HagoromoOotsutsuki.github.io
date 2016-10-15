@@ -7,9 +7,7 @@ permalink: /
 <div class="navbar-wrapper">
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="container">
-		<a class="navbar-brand page-scroll"  href="#page-top"><img class="logo"
-				src="./static/img/landing/kravmaga.png" alt="{{
-				site.title }}"></img></a>
+		    <!--		<a class="navbar-brand page-scroll"  href="#page-top"><img class="logo" src="./static/img/landing/kravmaga.png" alt="{{	site.title }}"></img></a> -->
                 <div class="navbar-header page-scroll">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                         <span class="sr-only">Toggle navigation</span>
@@ -17,8 +15,8 @@ permalink: /
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-<!--		    <a class="navbar-brand" href="#page-top"
-	id="i18_title"><span data-i18n="website.title"></SPAN></a>-->
+		    <a class="navbar-brand" href="#page-top" id="i18_title"><img class="logo" src="./static/img/landing/kravmaga.png" alt="{{ website.title }}"></img><span data-i18n="website.title"></SPAN></a>
+<!--		    <a class="navbar-brand" href="#page-top" id="i18_title"><span data-i18n="website.title"></SPAN></a> -->
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right" id="i18_navbar">
@@ -40,13 +38,49 @@ permalink: /
             </div>
         </nav>
 </div>
+<div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#inSlider" data-slide-to="0" class="active"></li>
+        <li data-target="#inSlider" data-slide-to="1"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="container">
+                <div class="carousel-caption">
+                </div>
+                <div class="carousel-image wow zoomIn">
+                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
+                </div>
+            </div>
+            <!-- Set background for slide in css -->
+            <div class="header-back one"></div>
+
+        </div>
+        <div class="item">
+            <div class="container">
+                <div class="carousel-caption blank">
+                </div>
+            </div>
+            <!-- Set background for slide in css -->
+            <div class="header-back two"></div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#inSlider" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#inSlider" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
 <!--
 <div class="spacer">
 		    <img padding=60px src="./static/img/landing/kravmaga.png"
 	alt="{{ site.title }}"></img> 
 </div> -->
 <section id="home" class="features">
-    <div class="container extramargin" id="i18_about_me">
+    <div class="container" id="i18_about_me">
                 <div class="navy-line"></div>
 		<div class="row m-b-lg">
 		      {% markdown claim.md %}
