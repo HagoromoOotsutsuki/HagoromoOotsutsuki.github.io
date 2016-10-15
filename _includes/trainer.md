@@ -1,7 +1,8 @@
-Thilo Steinke
+Trainer
 ==============
+Thilo Steinke
 
-|Level          | Graduate 1                                  |
+|<span style="font-weight:normal">Level</span> | <span style="font-weight:normal">Graduate 1</span>|
 |---------------|---------------------------------------------|
 |KMG-Ausbildung| - GIC 2015 unter Moran Laskov und Mateusz Sog |
 ||- WIC 2016 unter Gracia Ho |
