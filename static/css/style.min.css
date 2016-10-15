@@ -230,6 +230,7 @@ a.forum-item-title:hover{color:inherit}.forum-icon .fa{font-size:30px;margin-top
 .tabs-container .tabs-below>.nav-tabs>li{margin-top:-1px;margin-bottom:0}.tabs-container .tabs-below>.nav-tabs>li>a{-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px}
 .tabs-container .tabs-below>.nav-tabs>li>a:hover,.tabs-container .tabs-below>.nav-tabs>li>a:focus{border-top-color:#e7eaec;border-bottom-color:transparent}
 .tabs-container .tabs-left>.nav-tabs>li,.tabs-container .tabs-right>.nav-tabs>li{float:none}.tabs-container .tabs-left>.nav-tabs>li>a,.tabs-container .tabs-right>.nav-tabs>li>a{min-width:74px;margin-right:0;margin-bottom:3px}
+a{color:#bb863a;} a:hover{color:#3c3abb;}
 .tabs-container .tabs-left>.nav-tabs{float:left;margin-right:19px}.tabs-container .tabs-left>.nav-tabs>li>a{margin-right:-1px;-webkit-border-radius:4px 0 0 4px;-moz-border-radius:4px 0 0 4px;border-radius:4px 0 0 4px}
 .tabs-container .tabs-left>.nav-tabs .active>a,.tabs-container .tabs-left>.nav-tabs .active>a:hover,.tabs-container .tabs-left>.nav-tabs .active>a:focus{border-color:#e7eaec transparent #e7eaec #e7eaec;*border-right-color:#fff}
 .tabs-container .tabs-right>.nav-tabs{float:right;margin-left:19px}.tabs-container .tabs-right>.nav-tabs>li>a{margin-left:-1px;-webkit-border-radius:0 4px 4px 0;-moz-border-radius:0 4px 4px 0;border-radius:0 4px 4px 0}
