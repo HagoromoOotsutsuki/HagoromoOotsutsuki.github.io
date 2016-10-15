@@ -15,8 +15,7 @@ Gibt es mehrere KRAV MAGA-Stile?
 ---------------------------------------
 Ja und nein. Fest steht, dass der Begriff KRAV MAGA nicht rechtlich geschützt
 ist. Jeder kann ihn verwenden. Die Qualitätsunterschiede sind teilweise
-erheblich. Eyal Yanilov und sein KRAV MAGA GLOBAL-Team (Link zum Global-Team:
-http://krav-maga.com/kmg-global-and-international-team-instructors/)
+erheblich. Eyal Yanilov und sein [KRAV MAGA GLOBAL-Team](http://krav-maga.com/kmg-global-and-international-team-instructors/)
 garantieren ein besonders hohes Level an Technik, Taktik und Didaktik. 
 
 Muss ich sportlich sein? 
