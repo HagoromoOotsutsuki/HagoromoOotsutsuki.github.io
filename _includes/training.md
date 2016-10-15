@@ -15,8 +15,7 @@ Greifswald
 
 Probetraining
 -------------
-Jederzeit ohne Voranmeldung möglich. Beachte nur folgende Bedingungen: (Link zu
-pdf mit entsprechenden Bedingungen) 
+Jederzeit ohne Voranmeldung möglich. Beachte nur folgende [Bedingungen](/static/pdf/Krav_Maga_University-Probetraining_Vertrag.pdf)
 
 Beiträge
 --------
