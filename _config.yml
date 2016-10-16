@@ -2,22 +2,22 @@
 
 # Website settings
 #title: "<img src='./static/img/landing/header_one.jpg'>"
-title: "Krav Maga"
+title: "Krav Maga University"
 description: "Krav Maga Greifswald, Selbstschutz, Fitness"
-keywords: "Krav Maga, Greifswald, Training, Seminar Selbstschutz, Selbstverteidigung, Krav Maga Global, Fitness, Kampfsport, Frauen"
+keywords: "Krav Maga, Krav Maga University, KMG, Greifswald, Training, Seminar Selbstschutz, Selbstverteidigung, Krav Maga Global, Fitness, Kampfsport, Frauen"
 baseurl: "/"
-url: "http://jeckyll.christofschulze.com"
+url: "http://krav-maga-university.de"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://jeckyll.christofschulze.com/kmg-greifswald/static/img/'
+img_path: 'http://krav-maga-university.de/static/img/'
 
 # author
 author:
   name: 'Thilo Steinke'
   first_name: 'Thilo'
   last_name: 'Steinke'
-  email: 'fuettermich@web.de'
+  email: 'info@krav-maga-university.de'
 #  facebook_username: 'fb_username'
 #  github_username: 'github_username'
   head_img: 'static/img/landing/avatar.jpg'

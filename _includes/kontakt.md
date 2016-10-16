@@ -1,4 +1,4 @@
 Kontakt
 ========
 
-Mail: info at domain.de
+Mail: info [at] krav-maga-university [dot] de
