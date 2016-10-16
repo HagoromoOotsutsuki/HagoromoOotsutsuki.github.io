@@ -1,8 +1,8 @@
 Impressum
 ==========
 
-Angaben gemäß § 5 TMG
 ------------------
+Angaben gemäß § 5 TMG:
 Thilo Steinke  
 Ranieser Weg 19  
 39114 Magdeburg   
@@ -16,7 +16,7 @@ Thilo Steinke
 Ranieser Weg 19  
 39114 Magdeburg  
 
-Quelle: https://www.e-recht24.de  
+Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)  
 
 Haftungsausschluss (Disclaimer)
 ========================
