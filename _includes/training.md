@@ -23,3 +23,4 @@ Beiträge
 12-Monate: 30 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 35 Euro/Monat regulär  
 6-Monate: 35 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 40 Euro/Monat regulär   
 10er-Karte: 100 Euro 
+Einzeltraining: Auf Anfrage 
