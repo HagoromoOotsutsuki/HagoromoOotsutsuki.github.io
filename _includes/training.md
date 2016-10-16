@@ -8,7 +8,7 @@ Donnerstag: 20:30 – 22:00 Uhr
 
 Ort
 --------
-Mehrzweckraum 
+Mehrzweckraum  
 Schönwaldecenter  
 Ernst-Thälmann-Ring 11-13  
 Greifswald  
@@ -22,5 +22,5 @@ Beiträge
 --------
 12-Monate: 30 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 35 Euro/Monat regulär  
 6-Monate: 35 Euro/Monat ermäßigt (Studierende, SchülerInnen, Azubis), 40 Euro/Monat regulär   
-10er-Karte: 100 Euro 
+10er-Karte: 100 Euro  
 Einzeltraining: Auf Anfrage 
