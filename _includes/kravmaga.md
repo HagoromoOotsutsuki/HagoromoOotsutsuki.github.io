@@ -43,7 +43,7 @@ Traditionspflege spielen keine Rolle. Durch den ständigen weltweiten
 Erfahrungs- und Expertisenaustausch werden laufend neue Erkenntnisse
 eingebracht. So bleibt KRAV MAGA GLOBAL stets auf dem neusten Stand. 
 
-Spaß am Erfolg 
+Spass am Erfolg 
 -------------------
 Trotz des ernsten Anliegens macht jede Trainingseinheit Spaß. Die ausgefeilte
 Didaktik von KRAV MAGA GLOBAL beinhaltet eine konstruktive Mischung aus Spaß,
