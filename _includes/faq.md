@@ -42,7 +42,7 @@ Gibt es Regeln für das Training?
 Ja. 
 
 1. Das Training soll so realitätsnah wie möglich sein. 
-2. Im Training soll sich niemand verletzen. 
+1. Im Training soll sich niemand verletzen. 
 
 Diese Regeln müssen gegeneinander ausgeglichen werden. Daher: Jede und jeder
 bestimmt die für sie oder ihn angemessene Intensität im Rahmen der
