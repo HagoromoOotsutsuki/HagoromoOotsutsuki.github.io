@@ -4,7 +4,7 @@ Krav Maga
 Was ist KRAV MAGA?
 -------------------
 Ein israelisches, taktisches Selbstverteidigungssystem. Primär geht es um die
-Vermeidung von Gewalt. Sekundär kommt die Deeskalation und Flucht zur
+Vermeidung von Gewalt. Sekundär kommen Deeskalation und Flucht zur
 Anwendung. Erst wenn diese Schritte keinen Erfolg hatten, kommt die
 Selbstverteidigung im engeren Sinne zur Anwendung. Soweit zumindest im zivilen
 Bereich. Es gibt allerdings noch andere Bereiche. Etwa jene, aus denen sich
@@ -43,7 +43,7 @@ Traditionspflege spielen keine Rolle. Durch den ständigen weltweiten
 Erfahrungs- und Expertisenaustausch werden laufend neue Erkenntnisse
 eingebracht. So bleibt KRAV MAGA GLOBAL stets auf dem neusten Stand. 
 
-Spaß am Erfolg 
+Spass am Erfolg 
 -------------------
 Trotz des ernsten Anliegens macht jede Trainingseinheit Spaß. Die ausgefeilte
 Didaktik von KRAV MAGA GLOBAL beinhaltet eine konstruktive Mischung aus Spaß,
