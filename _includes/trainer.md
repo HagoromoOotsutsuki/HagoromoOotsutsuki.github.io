@@ -4,7 +4,7 @@ Thilo Steinke
 
 |||
 |---------------|---------------------------------------------|
-|Level | Graduate 1|
+|Level | Graduate 2|
 |KMG-Ausbildung| - GIC (General Instructor Course) 2015 unter Moran Laskov und Mateusz Sog |
 ||- WIP (Women Instructor Course) 2016 unter Gracia Ho |
 ||- VIPIC (VIP-and-3rd-party-protection Instructor Course) 2016 unter Eyal Yanilov und Franklyn Hartkamp |
