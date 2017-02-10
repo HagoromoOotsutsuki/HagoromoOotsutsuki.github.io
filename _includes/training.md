@@ -1,7 +1,7 @@
 Training
 ========
 
-<img src="/static/img/landing/kmu.jpg" alt-text="Training: Dienstag 20:00-21:30 Uhr, Donnerstag: 20:30-22:00 Uhr, Mehrzweckraum im Schönwaldecenter)" width="100%">
+<img src="/static/img/landing/KMU.jpg" alt-text="Training: Dienstag 20:00-21:30 Uhr, Donnerstag: 20:30-22:00 Uhr, Mehrzweckraum im Schönwaldecenter)" width="100%">
 
 Zeiten
 -------
