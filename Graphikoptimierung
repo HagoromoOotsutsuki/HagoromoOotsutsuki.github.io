@@ -1,0 +1,2 @@
+geht mit imagemagick:
+convert ../static/img/landing/KMU.jpg -resize 1000x1000 -type palette -colors 200 -quality 00 test.png
