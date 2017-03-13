@@ -1,6 +1,6 @@
 #!/bin/bash
 input="$1"
 output="${input}_optimized.png"
-convert "$input" -resize $((1000*717))\@ -colors 255 "$output"
+convert "$input" -resize 1000x100 -colors 200 -quality 00 -strip +profile "$output"
 pngcrush "$output" "$input"
 rm "$output"
