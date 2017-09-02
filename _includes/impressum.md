@@ -9,7 +9,7 @@ Ranieser Weg 19
 
 Kontakt
 ------
-Telefon: 0176/20084932  
+
 E-Mail: info [at] krav-maga-university [dot] de  
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:  
 Thilo Steinke  
