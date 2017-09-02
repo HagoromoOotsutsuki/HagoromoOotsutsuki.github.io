@@ -8,6 +8,8 @@ Thilo Steinke
 |KMG-Ausbildung| - GIC (General Instructor Course) 2015 unter Moran Laskov und Mateusz Sog |
 ||- WIP (Women Instructor Course) 2016 unter Gracia Ho |
 ||- VIPIC (VIP-and-3rd-party-protection Instructor Course) 2016 unter Eyal Yanilov und Franklyn Hartkamp |
+||- TIC (Transportation Instructor Course) 2017 unter Eyal Yanilov und Rune Lind |
+||- IDC (Instructor Development Course) 2017 unter Rory Miller |
 |Kampfkunsterfahrung  | Judo, Karate (v.a. Goju-ryu), BJJ, Katori-Shinto-Ryu |
 |Weitere Lizenzen |- B-Groupfitness-Trainer |
 ||- Groundforcemethod Level 1 |
