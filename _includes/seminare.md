@@ -2,7 +2,7 @@ Seminare
 ========
 Basic-Seminar
 -----------------------  
-Inhalte: 
+Inhalte:  
 - Wesentliche Kontertechniken  
 - Hocheffektive, realistische Abwehrtechniken gegen Schläge, Umklammerungen, Würgen im Stand / am Boden, uvm.  
 - Gefahren erkennen und vermeiden  
