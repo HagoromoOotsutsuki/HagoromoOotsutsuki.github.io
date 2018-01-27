@@ -1,12 +1,12 @@
 Training
 ========
 
-<img src="/static/img/landing/KMU.png" alt-text="Training: Dienstag 20:00-21:30 Uhr, Donnerstag: 20:30-22:00 Uhr, Mehrzweckraum im Schönwaldecenter)" width="100%">
+<img src="/static/img/landing/KMU.png" alt-text="Training: Dienstags 20:00-21:30 Uhr, Donnerstags: 20:30-22:00 Uhr, Mehrzweckraum im Schönwaldecenter)" width="100%">
 
 Zeiten
 -------
 Dienstags: 20:00 – 21.30 Uhr  
-Donnerstags: 19:30 - 20:30 Uhr (freies Training)  
+Donnerstags: 19:30 – 20:30 Uhr (freies Training)  
 Donnerstags: 20:30 – 22:00 Uhr  
   
 Ort
