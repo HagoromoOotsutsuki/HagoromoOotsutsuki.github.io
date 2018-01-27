@@ -5,9 +5,9 @@ Training
 
 Zeiten
 -------
-Dienstags:    20:00 – 21.30 Uhr  
-Donnerstags:  19:30 - 20:30 Uhr (freies Training)  
-              20:30 – 22:00 Uhr  
+Dienstags: 20:00 – 21.30 Uhr  
+Donnerstags: 19:30 - 20:30 Uhr (freies Training)  
+Donnerstags: 20:30 – 22:00 Uhr  
   
 Ort
 --------
