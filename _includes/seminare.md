@@ -12,7 +12,7 @@ Inhalte:
 Zeit: 17.03.2018, 13:00 bis 17:00 Uhr  
 Ort: Sporthalle der Krullschule (Bleichstraße 36, Greifswald)  
 Beitrag: 25 EUR (ermäßigt), sonst 30 EUR  
-Anmeldung: info [at] krav-maga-university [dot] com  
+Anmeldung: info [at] krav-maga-university [dot] de  
 
 -----------------------
 Vergangene Seminare 
