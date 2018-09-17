@@ -1,15 +1,16 @@
 Seminare
 ========
-Basic-Seminar  
+Selbstschutz für Frauen  
   
 Inhalte:  
-- Wesentliche Kontertechniken  
+- Gefahren erkennen und vermeiden 
+- Fluchtstrategien 
+- Simples 5-Stufenprogramm zur Grenzsetzung 
+- Stärkung des Selbstbewusstseins 
 - Hocheffektive, realistische Abwehrtechniken gegen Schläge, Umklammerungen, Würgen im Stand / am Boden, uvm.  
-- Gefahren erkennen und vermeiden  
-- Fluchtstrategien  
 - Hintergrundinformationen zu Gewaltformen, Notwehr, etc.  
   
-Zeit: 26.05.2018, 13:00 bis 17:00 Uhr  
-Ort: Sporthalle der Krullschule (Bleichstraße 36, Greifswald)  
-Beitrag: 25 EUR (ermäßigt), sonst 30 EUR  
+Zeit: 22.09.2018, 13:00 bis 18:00 Uhr  
+Ort: Sporthalle der Kollwitzschule (Eingang Brüggstraße 7, Greifswald)  
+Beitrag: 30 EUR (ermäßigt), sonst 35 EUR  
 Anmeldung: info [at] krav-maga-university [dot] de  
